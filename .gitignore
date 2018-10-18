@@ -1,0 +1,6 @@
+/target
+/bin
+/log
+/logs/
+.idea
+.iml
